@@ -11,6 +11,7 @@
 
 body {
     font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
 }
 
 
@@ -100,6 +101,7 @@ color: white;
 }
 
 .hero .hero-heading {
+    text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
 }
@@ -123,3 +125,21 @@ color: white;
     background-color: var(--off-white);
 }
 
+
+/** footers **/
+
+footer {
+    background-color: var(--primary-color);
+    padding: 2rem 0rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem ;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
