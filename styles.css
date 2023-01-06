@@ -19,6 +19,12 @@ hr {
     margin: 2rem 0rem;
 }
 
+/**  Margin **/
+.margin-md {
+    margin: 2rem 0rem;
+}
+
+
 /** Contrainer **/
 .container {
     padding: 0rem 1rem;
@@ -92,9 +98,10 @@ color: white;
 
 .hero {
     padding: 2rem;
+    padding-top: 5rem;
 }
 
-.hero .hero.img {
+.hero .hero-img {
     max-width: 350px;
     display: block;
     margin: auto;
@@ -138,6 +145,12 @@ footer {
 
 .footer .link {
     color: white;
+}
+
+.footer .footer-header {
+    color: white;
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer ul {
