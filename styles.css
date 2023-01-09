@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --primary-color: #9F63FF;
+    --primary-color: #f87171;
     --dark-gray: #6B7280;
     --off-white: #F3F4F6;
 }
@@ -10,7 +10,7 @@
 
 
 body {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0px;
 }
 
